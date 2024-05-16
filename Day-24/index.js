@@ -1,0 +1,1 @@
+asyncOperations().then((result1)) => asyncOperations(result1).then
